@@ -1,0 +1,22 @@
+# xmax
+10.0
+# ymax
+10.0
+# dx
+0.05
+# dy
+0.05
+# output_dt
+0.2
+# t_max
+30.0
+# c (wave speed)
+1.0
+# periodic (0 = false, 1 = true)
+1
+# neumann_bc (only relevant if non-periodic, 0 for Dirichlet, 1 for Neumann)
+0
+# benchmark run (1 to remove file writes and start benchmarks)
+0
+# intitial condition function (index of func_choice in initialconditions.h)
+4

@@ -1,0 +1,10 @@
+xmax: 10, ymax: 10
+dx: 0.05, dy: 0.05, output_dt: 0.2
+t_max: 30, c (wave speed): 1
+Periodic BCs: 0, Neumann BCs: 1
+Benchmark run: 0
+ic_func_choice: 4, ic_func name: point_disturbance
+iteration dt: 0.005
+num_proc: 9
+
+// We used a compound internal boundary by combining a square and circle boundary
